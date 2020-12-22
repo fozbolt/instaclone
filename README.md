@@ -1,3 +1,6 @@
+! MATERIJALI S NASTAVE, doc.dr.sc Nikola Tanković i Damir Bulić !
+
+
 # WEEK 5
 
 ## Zelimo postati neku sliku
