@@ -1,4 +1,4 @@
-! MATERIJALI S NASTAVE, doc.dr.sc Nikola Tanković i Damir Bulić !
+# ! MATERIJALI S NASTAVE, doc.dr.sc Nikola Tanković i Damir Bulić !
 
 
 # WEEK 5
